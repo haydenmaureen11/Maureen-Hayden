@@ -1,4 +1,9 @@
-## Welcome to GitHub Pages
+#About Me
+
+I am a marine biologist. 
+
+
+## Welcome to GitHub
 
 You can use the [editor on GitHub](https://github.com/haydenmaureen11/maureenhayden/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
