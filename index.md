@@ -8,6 +8,8 @@ I am a marine biologist. I am working on my PhD in Marine Biology at TExas A&M U
 - 2015-2017   Walla Walla University. M.S. in Biology. Degree confirmed June 11, 2017. Overall GPA: 3.59/4.0
 - 2011-2015 	University of Rhode Island. B.S. Marine Biology. Degree confirmed May 17, 2015. GPA: 3.46/4.0 Dean’s List
 
+## **Service and Outreach**
+
 ## Contact me
 
 - Email: maureen.hayden@tamu.edu
