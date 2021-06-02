@@ -4,10 +4,10 @@ I am a marine biologist. I am working on my PhD in Marine Biology at TExas A&M U
 
 ## Contact me
 
-Email: maureen.hayden@tamu.edu
-FaceBook: Maureen The Marine Biologist
-Twitter: Marine_Maureen
-Instagram: Maureen The Marine Biologist
+- Email: maureen.hayden@tamu.edu
+- FaceBook: Maureen The Marine Biologist
+- Twitter: Marine_Maureen
+- Instagram: Maureen The Marine Biologist
 
 
 ## Welcome to GitHub
