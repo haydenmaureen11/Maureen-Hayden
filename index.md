@@ -17,6 +17,9 @@ I am a marine biologist. I am working on my PhD in Marine Biology at TExas A&M U
 - Twitter: Marine_Maureen
 - Instagram: Maureen The Marine Biologist
 
+<div class="text-blue mb-2">
+  .text-blue on white
+</div>
 
 ## Welcome to GitHub
 
