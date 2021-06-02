@@ -2,6 +2,8 @@
 
 I am a marine biologist. I am working on my PhD in Marine Biology at TExas A&M University. 
 
+### What does header three look like?
+
 
 ## Welcome to GitHub
 
