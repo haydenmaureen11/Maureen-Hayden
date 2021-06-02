@@ -4,9 +4,9 @@ I am a marine biologist. I am working on my PhD in Marine Biology at TExas A&M U
 
 ## Education 
 
-2017-Present  Texas A&M University. In progress. Ph.D. in Marine Biology. Expected graduation 				date May 2021. Current GPA: 3.67/4.0
-2015-2017   Walla Walla University. M.S. in Biology. Degree confirmed June 11, 2017. Overall 				GPA: 3.59/4.0
-2011-2015 	University of Rhode Island. B.S. Marine Biology. Degree confirmed May 17, 2015. 				GPA: 3.46/4.0 Dean’s List
+- 2017-Present  Texas A&M University. In progress. Ph.D. in Marine Biology. Expected graduation date May 2021. Current GPA: 3.67/4.0
+- 2015-2017   Walla Walla University. M.S. in Biology. Degree confirmed June 11, 2017. Overall GPA: 3.59/4.0
+- 2011-2015 	University of Rhode Island. B.S. Marine Biology. Degree confirmed May 17, 2015. GPA: 3.46/4.0 Dean’s List
 
 ## Contact me
 
