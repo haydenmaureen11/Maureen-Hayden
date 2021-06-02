@@ -1,6 +1,6 @@
 ## About Me
 
-I am a marine biologist. 
+I am a marine biologist. I am working on my PhD in Marine Biology at TExas A&M University. 
 
 
 ## Welcome to GitHub
