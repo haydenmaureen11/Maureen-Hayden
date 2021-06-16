@@ -84,7 +84,7 @@ Awarded a URI Coastal Fellowship with Dr. Brad Wetherbee tracking tiger shark mi
 - August 2018-May2019	American Council of The Blind Students. Member. Convention Committee.	     
 - August 2018-July 2019 Council for Citizens With Low Vision International. Member. Convention Committee. 	     
 
-Learning Ally College Success Program Webinairs
+# Learning Ally College Success Program Webinairs
 - WEBINAR: A Crystal Ball for Blind/Visually Impaired Students - May 6, 2020
 	- https://youtu.be/RegKmCkcA4g
 - WEBINAR - A Crystal Ball for Blind/Visually Impaired Students: A Glimpse Into Your 1st Semester
@@ -117,7 +117,7 @@ Learning Ally College Success Program Webinairs
 - Good Laboratory Practice
 
 
-## Contact me
+## **Contact me**
 - Email: maureen.hayden@tamu.edu
 - FaceBook: Maureen The Marine Biologist
 - Twitter: Marine_Maureen
