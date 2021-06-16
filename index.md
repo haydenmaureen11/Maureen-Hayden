@@ -11,7 +11,7 @@ I am a marine biologist. I am working on my PhD in Marine Biology at TExas A&M U
 - 2015-2017   Walla Walla University. M.S. in Biology. Degree confirmed June 11, 2017. Overall GPA: 3.59/4.0
 - 2011-2015 	University of Rhode Island. B.S. Marine Biology. Degree confirmed May 17, 2015. GPA: 3.46/4.0 Dean’s List
 
-## **Work Experience**
+# **Work Experience**
 
 ## Ph.D. Student in Marine Biology Interdisciplinary Program, Texas A&M University August 2018-Present
 Conducting long term doctoral research at Texas A&M University Marine Biology Interdisciplinary Program under the advisory of Dr. Mary Wicksten studying effects of microplastics on beach environments and ingestion of microplastics on Talitrid amphipod populations in Texas.
@@ -84,7 +84,7 @@ Awarded a URI Coastal Fellowship with Dr. Brad Wetherbee tracking tiger shark mi
 - August 2018-May2019	American Council of The Blind Students. Member. Convention Committee.	     
 - August 2018-July 2019 Council for Citizens With Low Vision International. Member. Convention Committee. 	     
 
-# Learning Ally College Success Program Webinairs
+## Learning Ally College Success Program Webinairs
 - WEBINAR: A Crystal Ball for Blind/Visually Impaired Students - May 6, 2020
 	- https://youtu.be/RegKmCkcA4g
 - WEBINAR - A Crystal Ball for Blind/Visually Impaired Students: A Glimpse Into Your 1st Semester
