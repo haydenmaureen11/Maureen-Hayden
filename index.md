@@ -1,17 +1,36 @@
 
 ![Images](https://github.com/haydenmaureen11/Maureen-Hayden/issues/1#issue-909792621)
+![image](https://user-images.githubusercontent.com/85251086/122275080-eb279700-cea8-11eb-9106-8635280567a1.png)
+
 
 ## About Me
-
 I am a marine biologist. I am working on my PhD in Marine Biology at TExas A&M University. 
 
 ## Education 
-
 - 2017-Present  Texas A&M University. In progress. Ph.D. in Marine Biology. Expected graduation date May 2021. Current GPA: 3.67/4.0
 - 2015-2017   Walla Walla University. M.S. in Biology. Degree confirmed June 11, 2017. Overall GPA: 3.59/4.0
 - 2011-2015 	University of Rhode Island. B.S. Marine Biology. Degree confirmed May 17, 2015. GPA: 3.46/4.0 Dean’s List
 
 ## **Service and Outreach**
+- August 2018-Present 	Disability Subcommission. Diversity Committee Student Government Association. Texas A&M University. 
+				Treasurer. May 2020-Present
+				Awareness Committee. August 2019-June 2020
+- August 2018-Present 	Student Advisory Board. Member. Texas A&M Student Resources. Texas A&M 				University. 
+- August 2018-Present	Learning Ally College Success Program. Mentor. 					     
+- June 2019-Present	Project POEM. National Science Foundation. Industry Mentor. University of Arizona.
+- August 2019-May 2020	National Association of Blind Students. Member. Fundraising Committee. 		   August 2018-May 2020	-- Insightful Connections. President. Student Organization. Texas A&M University. 
+- August 2018-May2019	American Council of The Blind Students. Member. Convention Committee.	     
+- August 2018-July 2019. 	Council for Citizens With Low Vision International. Member. Convention Committee. 	     
+
+Learning Ally College Success Program Webinairs
+WEBINAR: A Crystal Ball for Blind/Visually Impaired Students - May 6, 2020
+https://youtu.be/RegKmCkcA4g
+WEBINAR - A Crystal Ball for Blind/Visually Impaired Students: A Glimpse Into Your 1st Semester
+https://youtu.be/CWodyeMVZFw
+WEBINAR: BTW, I Have Low Vision - The Pros and Cons of Self-Identifying Having Low Vision
+https://youtu.be/gD885NYelZE
+WEBINAR: Navigating an Online Coronavirus Landscape - College Social Life
+https://youtu.be/-cNG_XcxyyA
 
 ## Contact me
 
