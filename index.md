@@ -12,18 +12,18 @@ I am a marine biologist. I am working on my PhD in Marine Biology at TExas A&M U
 - 2011-2015 	University of Rhode Island. B.S. Marine Biology. Degree confirmed May 17, 2015. GPA: 3.46/4.0 Dean’s List
 
 ## **Grants, Other Funding, Honors, and Awards**
--Paul and Ellen Ruckers Scholarship. $2,000. July 2020. American Council of the Blind
--Grants-In-Aid of Graduate Research Program. $2,367. May 2020. Texas Sea Grant. 
--Paul and Ellen Ruckers Scholarship. $2,000. July 2019. American Foundation for the Blind
--National Federation of the Blind National Scholarship Program Finalist. Kurzweil Foundation Scholarship. $1,000. 	July 2019. Kurzweil Foundation and National Federation of the Blind. 
--National Federation of the Blind National Scholarship Program Finalist. Google Scholarship. $1,000. July 2019. 	Google and National Federation of the Blind. 
--National Federation of the Blind National Scholarship Program Finalist. $3,000. July 2019. National Federation of 	the Blind. 
--Gary Gray Memorial Student Award. Accountability, Climate and Equity (ACE) Awards. April 2019 Texas A&M University
--Valerie de la Valdene Memorial Disabled Diver Training Grant. March 2019. Women Divers Hall of Fame.
--National Federation of the Blind of Texas State Scholarship. $2,000. November 2018. National Federation of the 	Blind of Texas.
--Fred Scheigert Graduate Scholarship. $3,000. June 2018. Council for Citizens With Low Vision International.
--Grants-In-Aid of Graduate Research Program. $1,000. May 2018. Texas Sea Grant. 
--Outstanding Graduate Academic Achievement. June 2017. Walla Walla University. Walla Wal
+- Paul and Ellen Ruckers Scholarship. $2,000. July 2020. American Council of the Blind
+- Grants-In-Aid of Graduate Research Program. $2,367. May 2020. Texas Sea Grant. 
+- Paul and Ellen Ruckers Scholarship. $2,000. July 2019. American Foundation for the Blind
+- National Federation of the Blind National Scholarship Program Finalist. Kurzweil Foundation Scholarship. $1,000. 	July 2019. Kurzweil Foundation and National Federation of the Blind. 
+- National Federation of the Blind National Scholarship Program Finalist. Google Scholarship. $1,000. July 2019. 	Google and National Federation of the Blind. 
+- National Federation of the Blind National Scholarship Program Finalist. $3,000. July 2019. National Federation of 	the Blind. 
+- Gary Gray Memorial Student Award. Accountability, Climate and Equity (ACE) Awards. April 2019 Texas A&M University
+- Valerie de la Valdene Memorial Disabled Diver Training Grant. March 2019. Women Divers Hall of Fame.
+- National Federation of the Blind of Texas State Scholarship. $2,000. November 2018. National Federation of the 	Blind of Texas.
+- Fred Scheigert Graduate Scholarship. $3,000. June 2018. Council for Citizens With Low Vision International.
+- Grants-In-Aid of Graduate Research Program. $1,000. May 2018. Texas Sea Grant. 
+- Outstanding Graduate Academic Achievement. June 2017. Walla Walla University. Walla Wal
 
 ## **Service and Outreach**
 - August 2018-Present 	Disability Subcommission. Diversity Committee Student Government Association. Texas A&M University. 
@@ -48,13 +48,13 @@ Learning Ally College Success Program Webinairs
 
 ## Podcasts
 - It's My Job: Episode #7: Maureen Hayden
-- https://www.perkinselearning.org/technology/blog/its-my-job-podcast-7-maureen-hayden
+	- https://www.perkinselearning.org/technology/blog/its-my-job-podcast-7-maureen-hayden
 
 ## In The News
 - "Texas A&M Biology’s Maureen Hayden Sets Sights on Helping Planet and People Through Science" Texas A&M Science
 	- https://science.tamu.edu/news/2021/03/texas-am-biologys-maureen-hayden-sets-sights-on-helping-planet-and-people-through-science/
 - "Setting Her Sights On Science" Texas A&M Today
-- 	https://today.tamu.edu/2021/04/05/setting-her-sights-on-science/
+	- https://today.tamu.edu/2021/04/05/setting-her-sights-on-science/
 - "Texas Sea Grant funds nearly $50 thousand to 19 Texas A&M System graduate students" Texas A&M College of Geosciences
 	- https://geonews.tamu.edu/news/2020/06/gia-2020-2022.php
 - "Texas Sea Grant Awards Almost $44,000 To Grad Students For Research Projects" Texas A&M Today
