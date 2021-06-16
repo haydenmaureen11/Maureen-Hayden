@@ -3,10 +3,10 @@
 ![image](https://user-images.githubusercontent.com/85251086/122275080-eb279700-cea8-11eb-9106-8635280567a1.png)
 
 
-## **About Me**
+# **About Me**
 I am a marine biologist. I am working on my PhD in Marine Biology at TExas A&M University. 
 
-## **Education** 
+# **Education** 
 - 2017-Present  Texas A&M University. In progress. Ph.D. in Marine Biology. Expected graduation date May 2021. Current GPA: 3.67/4.0
 - 2015-2017   Walla Walla University. M.S. in Biology. Degree confirmed June 11, 2017. Overall GPA: 3.59/4.0
 - 2011-2015 	University of Rhode Island. B.S. Marine Biology. Degree confirmed May 17, 2015. GPA: 3.46/4.0 Dean’s List
@@ -59,7 +59,7 @@ Awarded a URI Coastal Fellowship with Dr. Brad Wetherbee tracking tiger shark mi
 	- Contemporary Biology Course. Winter Quarter 2016
 	- Contemporary Biology Course. Fall Quarter 
 
-## **Grants, Other Funding, Honors, and Awards**
+# **Grants, Other Funding, Honors, and Awards**
 - Paul and Ellen Ruckers Scholarship. $2,000. July 2020. American Council of the Blind
 - Grants-In-Aid of Graduate Research Program. $2,367. May 2020. Texas Sea Grant. 
 - Paul and Ellen Ruckers Scholarship. $2,000. July 2019. American Foundation for the Blind
@@ -73,7 +73,7 @@ Awarded a URI Coastal Fellowship with Dr. Brad Wetherbee tracking tiger shark mi
 - Grants-In-Aid of Graduate Research Program. $1,000. May 2018. Texas Sea Grant. 
 - Outstanding Graduate Academic Achievement. June 2017. Walla Walla University. Walla Wal
 
-## **Service and Outreach**
+# **Service and Outreach**
 - August 2018-Present 	Disability Subcommission. Diversity Committee Student Government Association. Texas A&M University. 
 	- Treasurer May 2020-Present
 	- Awareness Committee. August 2019-June 2020
@@ -94,11 +94,11 @@ Awarded a URI Coastal Fellowship with Dr. Brad Wetherbee tracking tiger shark mi
 - WEBINAR: Navigating an Online Coronavirus Landscape - College Social Life
 	- https://youtu.be/-cNG_XcxyyA
 
-## Podcasts
+# Podcasts
 - It's My Job: Episode #7: Maureen Hayden
 	- https://www.perkinselearning.org/technology/blog/its-my-job-podcast-7-maureen-hayden
 
-## In The News
+# In The News
 - "Texas A&M Biology’s Maureen Hayden Sets Sights on Helping Planet and People Through Science" Texas A&M Science
 	- https://science.tamu.edu/news/2021/03/texas-am-biologys-maureen-hayden-sets-sights-on-helping-planet-and-people-through-science/
 - "Setting Her Sights On Science" Texas A&M Today
@@ -108,7 +108,7 @@ Awarded a URI Coastal Fellowship with Dr. Brad Wetherbee tracking tiger shark mi
 - "Texas Sea Grant Awards Almost $44,000 To Grad Students For Research Projects" Texas A&M Today
 	- https://today.tamu.edu/2018/05/31/texas-sea-grant-awards-almost-44000-to-grad-students-for-research-projects/
 
-## **Certifications**
+# **Certifications**
 - PADI CPR First Aid Certified, 
 - PADI Enhanced Air Scuba Certified, 
 - PADI Advanced Open Water Scuba Certified. 
@@ -117,7 +117,7 @@ Awarded a URI Coastal Fellowship with Dr. Brad Wetherbee tracking tiger shark mi
 - Good Laboratory Practice
 
 
-## **Contact me**
+# **Contact me**
 - Email: maureen.hayden@tamu.edu
 - FaceBook: Maureen The Marine Biologist
 - Twitter: Marine_Maureen
