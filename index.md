@@ -27,24 +27,24 @@ I am a marine biologist. I am working on my PhD in Marine Biology at TExas A&M U
 
 ## **Service and Outreach**
 - August 2018-Present 	Disability Subcommission. Diversity Committee Student Government Association. Texas A&M University. 
-				Treasurer. May 2020-Present
-				Awareness Committee. August 2019-June 2020
+	- Treasurer May 2020-Present
+	- Awareness Committee. August 2019-June 2020
 - August 2018-Present 	Student Advisory Board. Member. Texas A&M Student Resources. Texas A&M 				University. 
 - August 2018-Present	Learning Ally College Success Program. Mentor. 					     
 - June 2019-Present	Project POEM. National Science Foundation. Industry Mentor. University of Arizona.
-- August 2019-May 2020	National Association of Blind Students. Member. Fundraising Committee. 		   August 2018-May 2020	-- Insightful Connections. President. Student Organization. Texas A&M University. 
+- August 2019-May 2020	National Association of Blind Students. Member. Fundraising Committee. August 2018-May 2020	-- Insightful Connections  President. Student Organization. Texas A&M University. 
 - August 2018-May2019	American Council of The Blind Students. Member. Convention Committee.	     
-- August 2018-July 2019. 	Council for Citizens With Low Vision International. Member. Convention Committee. 	     
+- August 2018-July 2019 Council for Citizens With Low Vision International. Member. Convention Committee. 	     
 
 Learning Ally College Success Program Webinairs
--WEBINAR: A Crystal Ball for Blind/Visually Impaired Students - May 6, 2020
-	-https://youtu.be/RegKmCkcA4g
--WEBINAR - A Crystal Ball for Blind/Visually Impaired Students: A Glimpse Into Your 1st Semester
-	-https://youtu.be/CWodyeMVZFw
--WEBINAR: BTW, I Have Low Vision - The Pros and Cons of Self-Identifying Having Low Vision
-	-https://youtu.be/gD885NYelZE
--WEBINAR: Navigating an Online Coronavirus Landscape - College Social Life
-	-https://youtu.be/-cNG_XcxyyA
+- WEBINAR: A Crystal Ball for Blind/Visually Impaired Students - May 6, 2020
+	- https://youtu.be/RegKmCkcA4g
+- WEBINAR - A Crystal Ball for Blind/Visually Impaired Students: A Glimpse Into Your 1st Semester
+	- https://youtu.be/CWodyeMVZFw
+- WEBINAR: BTW, I Have Low Vision - The Pros and Cons of Self-Identifying Having Low Vision
+	- https://youtu.be/gD885NYelZE
+- WEBINAR: Navigating an Online Coronavirus Landscape - College Social Life
+	- https://youtu.be/-cNG_XcxyyA
 
 ## Podcasts
 - It's My Job: Episode #7: Maureen Hayden
