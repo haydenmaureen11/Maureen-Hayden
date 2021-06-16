@@ -3,13 +3,61 @@
 ![image](https://user-images.githubusercontent.com/85251086/122275080-eb279700-cea8-11eb-9106-8635280567a1.png)
 
 
-## About Me
+## **About Me**
 I am a marine biologist. I am working on my PhD in Marine Biology at TExas A&M University. 
 
-## Education 
+## **Education** 
 - 2017-Present  Texas A&M University. In progress. Ph.D. in Marine Biology. Expected graduation date May 2021. Current GPA: 3.67/4.0
 - 2015-2017   Walla Walla University. M.S. in Biology. Degree confirmed June 11, 2017. Overall GPA: 3.59/4.0
 - 2011-2015 	University of Rhode Island. B.S. Marine Biology. Degree confirmed May 17, 2015. GPA: 3.46/4.0 Dean’s List
+
+## **Work Experience**
+
+## Ph.D. Student in Marine Biology Interdisciplinary Program, Texas A&M University August 2018-Present
+Conducting long term doctoral research at Texas A&M University Marine Biology Interdisciplinary Program under the advisory of Dr. Mary Wicksten studying effects of microplastics on beach environments and ingestion of microplastics on Talitrid amphipod populations in Texas.
+- Developing dissertation research
+- Teaching Assistantship for designated courses
+
+## M.S. Student in Biology, Walla Walla University, WWU June 2015-June 2017
+Conducted long term research at WWU department of biology under the advisory of Dr. Kirt Onthank studying temperature preference in the smoothskin octopus (Muusoctopus leioderma).
+- Development and completion of a research thesis
+- Proposal defense and acceptance by graduate committee
+- Processing and interpellation of large quantities of data
+- Completion of comprehensive exams
+- Teaching Assistantship and lab coordinator for designated courses
+
+## Internship: Undergraduate Research Assistant, Graduate School of Oceanography, URI May 2014-May 2015
+Attained an internship at the URI Graduate School of Oceanography working under Dr. Robert Pockalny creating and populating the C-DP data portal for the C-DEBI Program. Managed large quantities of data encompassing deep biosphere geological, biological, and chemical datasets.
+- Create tutorial videos for C-DP Portal using the video editing software Camtasia 2.
+- Assist faculty members with research and in the development and execution of education and outreach projects.
+
+## Student: Sea Education Association (SEA) Semester, Woods Hole, MA January-March 2014
+Attended a ten-week study abroad program in which 5 weeks were spent at the SEA campus in Woods Hole and the other 5 weeks were at sea aboard the SSV Corwith Crammer cruise C-251.
+- Conducted field research and processed data on Myctophid fishes using a taxonomic key
+- Data and results of the study were presented aboard the ship and published in a manuscript under SEA
+- Learned sailing techniques including management of shipboard operations, scientific operations, and navigation
+
+## Coastal Fellow URI May 2012 – December 2013
+Awarded a URI Coastal Fellowship with Dr. Brad Wetherbee tracking tiger shark migration via satellite telemetry.
+- Managed large quantities of data and analyzed data using R statistical software package. 
+- Continued to work for Dr. Wetherbee training new interns and assisting in maintaining tiger shark satellite database.
+
+## Teaching (* current teaching assistant assignment)
+- 2017-Present Texas A&M University
+	- Invertebrate Zoology Course. Spring Semester 2021
+	- Anatomy and Physiology Course, Summer 2020
+	- Invertebrate Zoology Course. Spring Semester 2020
+	- Anatomy and Physiology Course, Summer and Fall Semesters 2019
+	- Invertebrate Zoology Course. Spring Semester 2019
+	- Anatomy and Physiology Course. Spring, Summer, and Fall Semesters 2018
+	- Introductory Biology Course. Fall Semester 2017
+- 2015-2017 Walla Walla University
+	- Ecology Course. Spring Quarter 2017
+	- Bio-Informatics Course. Winter Quarter 2017
+	- Contemporary Biology Course. Fall Quarter 2016
+	- General Biology Course. Spring Quarter 2016
+	- Contemporary Biology Course. Winter Quarter 2016
+	- Contemporary Biology Course. Fall Quarter 
 
 ## **Grants, Other Funding, Honors, and Awards**
 - Paul and Ellen Ruckers Scholarship. $2,000. July 2020. American Council of the Blind
@@ -60,12 +108,22 @@ Learning Ally College Success Program Webinairs
 - "Texas Sea Grant Awards Almost $44,000 To Grad Students For Research Projects" Texas A&M Today
 	- https://today.tamu.edu/2018/05/31/texas-sea-grant-awards-almost-44000-to-grad-students-for-research-projects/
 
-## Contact me
+## **Certifications**
+- PADI CPR First Aid Certified, 
+- PADI Enhanced Air Scuba Certified, 
+- PADI Advanced Open Water Scuba Certified. 
+- Open Water SDI Scuba Certified up to 60ft, 
+- Advanced Buoyancy SDI Scuba Certified, 
+- Good Laboratory Practice
 
+
+## Contact me
 - Email: maureen.hayden@tamu.edu
 - FaceBook: Maureen The Marine Biologist
 - Twitter: Marine_Maureen
 - Instagram: Maureen The Marine Biologist
+
+
 
 <div class="text-blue mb-2">.text-blue on white</div>
 
