@@ -57,7 +57,7 @@ Awarded a URI Coastal Fellowship with Dr. Brad Wetherbee tracking tiger shark mi
 	- Contemporary Biology Course. Winter Quarter 2016
 	- Contemporary Biology Course. Fall Quarter 
 
-<h1 align="center">Grants, Other Funding, Honors, and Awards</h1/>
+<h1 align="center">Grants, Other Funding, Honors, and Awards</h1>
 - Paul and Ellen Ruckers Scholarship. $2,000. July 2020. American Council of the Blind
 - Grants-In-Aid of Graduate Research Program. $2,367. May 2020. Texas Sea Grant. 
 - Paul and Ellen Ruckers Scholarship. $2,000. July 2019. American Foundation for the Blind
@@ -99,11 +99,11 @@ Webinairs
 - WEBINAR: Navigating an Online Coronavirus Landscape - College Social Life
 	- https://youtu.be/-cNG_XcxyyA
 
-# Podcasts
+<h1 align="center">Podcasts</h1>
 - It's My Job: Episode #7: Maureen Hayden
 	- https://www.perkinselearning.org/technology/blog/its-my-job-podcast-7-maureen-hayden
 
-# In The News
+<h1 align="center">In The News</h1>
 - "Texas A&M Biology’s Maureen Hayden Sets Sights on Helping Planet and People Through Science" Texas A&M Science
 	- https://science.tamu.edu/news/2021/03/texas-am-biologys-maureen-hayden-sets-sights-on-helping-planet-and-people-through-science/
 - "Setting Her Sights On Science" Texas A&M Today
