@@ -1,7 +1,4 @@
-
-(https://github.com/haydenmaureen11/Maureen-Hayden/issues/1#issue-909792621)
-(https://user-images.githubusercontent.com/85251086/122275080-eb279700-cea8-11eb-9106-8635280567a1.png)
-
+https://github.com/haydenmaureen11/Maureen-Hayden/issues/1#issue-909792621
 
 # **About Me**
 I am a marine biologist. I am working on my PhD in Marine Biology at Texas A&M University. 
