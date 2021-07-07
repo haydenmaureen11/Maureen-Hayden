@@ -1,10 +1,10 @@
 
-![Images](https://github.com/haydenmaureen11/Maureen-Hayden/issues/1#issue-909792621)
-![image](https://user-images.githubusercontent.com/85251086/122275080-eb279700-cea8-11eb-9106-8635280567a1.png)
+(https://github.com/haydenmaureen11/Maureen-Hayden/issues/1#issue-909792621)
+(https://user-images.githubusercontent.com/85251086/122275080-eb279700-cea8-11eb-9106-8635280567a1.png)
 
 
 # **About Me**
-I am a marine biologist. I am working on my PhD in Marine Biology at TExas A&M University. 
+I am a marine biologist. I am working on my PhD in Marine Biology at Texas A&M University. 
 
 # **Education** 
 - 2017-Present  Texas A&M University. In progress. Ph.D. in Marine Biology. Expected graduation date May 2021. Current GPA: 3.67/4.0
@@ -74,6 +74,7 @@ Awarded a URI Coastal Fellowship with Dr. Brad Wetherbee tracking tiger shark mi
 - Outstanding Graduate Academic Achievement. June 2017. Walla Walla University. Walla Wal
 
 # **Service and Outreach**
+- February 2021-Present Trombone Choir. Treasurer. Texas A&M University
 - August 2018-Present 	Disability Subcommission. Diversity Committee Student Government Association. Texas A&M University. 
 	- Treasurer May 2020-Present
 	- Awareness Committee. August 2019-June 2020
@@ -85,6 +86,12 @@ Awarded a URI Coastal Fellowship with Dr. Brad Wetherbee tracking tiger shark mi
 - August 2018-July 2019 Council for Citizens With Low Vision International. Member. Convention Committee. 	     
 
 ## Learning Ally College Success Program Webinairs
+#Summer Workshops
+- Introduction to Coding and Python Workshop. Summer 2020. Co-Instructor
+- Introduction to Coding and HTML Workshop. Summer 2021. Co-Instructor
+- Career Exploration Workshop. Summer 2021. Co-Instructor
+
+#Webinairs
 - WEBINAR: A Crystal Ball for Blind/Visually Impaired Students - May 6, 2020
 	- https://youtu.be/RegKmCkcA4g
 - WEBINAR - A Crystal Ball for Blind/Visually Impaired Students: A Glimpse Into Your 1st Semester
