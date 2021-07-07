@@ -1,7 +1,7 @@
 https://github.com/haydenmaureen11/Maureen-Hayden/issues/1#issue-909792621
 
 
-# **About Me**
+<h1 aligh="center">About Me</h1>
 I am a marine biologist. I am working on my PhD in Marine Biology at Texas A&M University. 
 
 <h1 align="center">Education</h1>
@@ -9,7 +9,7 @@ I am a marine biologist. I am working on my PhD in Marine Biology at Texas A&M U
 - 2015-2017   Walla Walla University. M.S. in Biology. Degree confirmed June 11, 2017. Overall GPA: 3.59/4.0
 - 2011-2015 	University of Rhode Island. B.S. Marine Biology. Degree confirmed May 17, 2015. GPA: 3.46/4.0 Dean’s List
 
-# **Work Experience**
+<h1 align="center">Work Experience</h1>
 
 ## Ph.D. Student in Marine Biology Interdisciplinary Program, Texas A&M University August 2018-Present
 Conducting long term doctoral research at Texas A&M University Marine Biology Interdisciplinary Program under the advisory of Dr. Mary Wicksten studying effects of microplastics on beach environments and ingestion of microplastics on Talitrid amphipod populations in Texas.
@@ -57,7 +57,7 @@ Awarded a URI Coastal Fellowship with Dr. Brad Wetherbee tracking tiger shark mi
 	- Contemporary Biology Course. Winter Quarter 2016
 	- Contemporary Biology Course. Fall Quarter 
 
-# **Grants, Other Funding, Honors, and Awards**
+<h1 align="center">Grants, Other Funding, Honors, and Awards</h1/>
 - Paul and Ellen Ruckers Scholarship. $2,000. July 2020. American Council of the Blind
 - Grants-In-Aid of Graduate Research Program. $2,367. May 2020. Texas Sea Grant. 
 - Paul and Ellen Ruckers Scholarship. $2,000. July 2019. American Foundation for the Blind
@@ -71,7 +71,7 @@ Awarded a URI Coastal Fellowship with Dr. Brad Wetherbee tracking tiger shark mi
 - Grants-In-Aid of Graduate Research Program. $1,000. May 2018. Texas Sea Grant. 
 - Outstanding Graduate Academic Achievement. June 2017. Walla Walla University. Walla Wal
 
-# **Service and Outreach**
+<h1 align="center">Service and Outreach</h1>
 - February 2021-Present Trombone Choir. Treasurer. Texas A&M University
 - August 2018-Present 	Disability Subcommission. Diversity Committee Student Government Association. Texas A&M University. 
 	- Treasurer May 2020-Present
@@ -89,7 +89,7 @@ Awarded a URI Coastal Fellowship with Dr. Brad Wetherbee tracking tiger shark mi
 - Introduction to Coding and HTML Workshop. Summer 2021. Co-Instructor
 - Career Exploration Workshop. Summer 2021. Co-Instructor
 
-#Webinairs
+Webinairs
 - WEBINAR: A Crystal Ball for Blind/Visually Impaired Students - May 6, 2020
 	- https://youtu.be/RegKmCkcA4g
 - WEBINAR - A Crystal Ball for Blind/Visually Impaired Students: A Glimpse Into Your 1st Semester
@@ -113,7 +113,7 @@ Awarded a URI Coastal Fellowship with Dr. Brad Wetherbee tracking tiger shark mi
 - "Texas Sea Grant Awards Almost $44,000 To Grad Students For Research Projects" Texas A&M Today
 	- https://today.tamu.edu/2018/05/31/texas-sea-grant-awards-almost-44000-to-grad-students-for-research-projects/
 
-# **Certifications**
+<h1 align="center">Certifications</h1?
 - PADI CPR First Aid Certified, 
 - PADI Enhanced Air Scuba Certified, 
 - PADI Advanced Open Water Scuba Certified. 
@@ -122,7 +122,7 @@ Awarded a URI Coastal Fellowship with Dr. Brad Wetherbee tracking tiger shark mi
 - Good Laboratory Practice
 
 
-# **Contact me**
+<h1 align="center">Contact me</h1>
 - Email: maureen.hayden@tamu.edu
 - FaceBook: Maureen The Marine Biologist
 - Twitter: Marine_Maureen
