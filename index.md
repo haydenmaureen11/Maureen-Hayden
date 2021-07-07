@@ -1,8 +1,4 @@
 
-https://user-images.githubusercontent.com/85251086/120536100-5cdfeb00-c3a9-11eb-8b9d-2aff92f07fba.JPG
-
-https://user-images.githubusercontent.com/85251086/120536100-5cdfeb00-c3a9-11eb-8b9d-2aff92f07fba.JPG
-
 ![Copy of hayden](https://user-images.githubusercontent.com/85251086/120536100-5cdfeb00-c3a9-11eb-8b9d-2aff92f07fba.JPG)
 
 
