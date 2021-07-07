@@ -1,7 +1,7 @@
 https://github.com/haydenmaureen11/Maureen-Hayden/issues/1#issue-909792621
 
 
-<h1 aligh="center">About Me</h1>
+<h1 align="center">About Me</h1>
 I am a marine biologist. I am working on my PhD in Marine Biology at Texas A&M University. 
 
 <h1 align="center">Education</h1>
@@ -58,6 +58,7 @@ Awarded a URI Coastal Fellowship with Dr. Brad Wetherbee tracking tiger shark mi
 	- Contemporary Biology Course. Fall Quarter 
 
 <h1 align="center">Grants, Other Funding, Honors, and Awards</h1>
+
 - Paul and Ellen Ruckers Scholarship. $2,000. July 2020. American Council of the Blind
 - Grants-In-Aid of Graduate Research Program. $2,367. May 2020. Texas Sea Grant. 
 - Paul and Ellen Ruckers Scholarship. $2,000. July 2019. American Foundation for the Blind
@@ -72,6 +73,7 @@ Awarded a URI Coastal Fellowship with Dr. Brad Wetherbee tracking tiger shark mi
 - Outstanding Graduate Academic Achievement. June 2017. Walla Walla University. Walla Wal
 
 <h1 align="center">Service and Outreach</h1>
+
 - February 2021-Present Trombone Choir. Treasurer. Texas A&M University
 - August 2018-Present 	Disability Subcommission. Diversity Committee Student Government Association. Texas A&M University. 
 	- Treasurer May 2020-Present
@@ -84,7 +86,7 @@ Awarded a URI Coastal Fellowship with Dr. Brad Wetherbee tracking tiger shark mi
 - August 2018-July 2019 Council for Citizens With Low Vision International. Member. Convention Committee. 	     
 
 ## Learning Ally College Success Program Webinairs
-#Summer Workshops
+Summer Workshops
 - Introduction to Coding and Python Workshop. Summer 2020. Co-Instructor
 - Introduction to Coding and HTML Workshop. Summer 2021. Co-Instructor
 - Career Exploration Workshop. Summer 2021. Co-Instructor
@@ -100,10 +102,12 @@ Webinairs
 	- https://youtu.be/-cNG_XcxyyA
 
 <h1 align="center">Podcasts</h1>
+
 - It's My Job: Episode #7: Maureen Hayden
 	- https://www.perkinselearning.org/technology/blog/its-my-job-podcast-7-maureen-hayden
 
 <h1 align="center">In The News</h1>
+
 - "Texas A&M Biology’s Maureen Hayden Sets Sights on Helping Planet and People Through Science" Texas A&M Science
 	- https://science.tamu.edu/news/2021/03/texas-am-biologys-maureen-hayden-sets-sights-on-helping-planet-and-people-through-science/
 - "Setting Her Sights On Science" Texas A&M Today
@@ -113,7 +117,8 @@ Webinairs
 - "Texas Sea Grant Awards Almost $44,000 To Grad Students For Research Projects" Texas A&M Today
 	- https://today.tamu.edu/2018/05/31/texas-sea-grant-awards-almost-44000-to-grad-students-for-research-projects/
 
-<h1 align="center">Certifications</h1?
+<h1 align="center">Certifications</h1>
+
 - PADI CPR First Aid Certified, 
 - PADI Enhanced Air Scuba Certified, 
 - PADI Advanced Open Water Scuba Certified. 
@@ -123,6 +128,7 @@ Webinairs
 
 
 <h1 align="center">Contact me</h1>
+
 - Email: maureen.hayden@tamu.edu
 - FaceBook: Maureen The Marine Biologist
 - Twitter: Marine_Maureen
